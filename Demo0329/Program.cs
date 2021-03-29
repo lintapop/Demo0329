@@ -11,6 +11,7 @@ namespace Demo0329
     {
         private static void Main(string[] args)
         {
+            //change
             //string
 
             #region 輸入姓名，輸出 Hi~輸入的姓名
